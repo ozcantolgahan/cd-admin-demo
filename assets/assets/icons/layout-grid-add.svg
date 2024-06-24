@@ -1,0 +1,6 @@
+<svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="3.66669" y="3.66663" width="5.5" height="5.5" rx="1" stroke="#121926" stroke-opacity="0.9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="12.8333" y="3.66663" width="5.5" height="5.5" rx="1" stroke="#121926" stroke-opacity="0.9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="3.66669" y="12.8334" width="5.5" height="5.5" rx="1" stroke="#121926" stroke-opacity="0.9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12.8333 14.8334C12.4191 14.8334 12.0833 15.1692 12.0833 15.5834C12.0833 15.9976 12.4191 16.3334 12.8333 16.3334V14.8334ZM18.3333 16.3334C18.7475 16.3334 19.0833 15.9976 19.0833 15.5834C19.0833 15.1692 18.7475 14.8334 18.3333 14.8334V16.3334ZM16.3333 12.8334C16.3333 12.4192 15.9975 12.0834 15.5833 12.0834C15.1691 12.0834 14.8333 12.4192 14.8333 12.8334H16.3333ZM14.8333 18.3334C14.8333 18.7476 15.1691 19.0834 15.5833 19.0834C15.9975 19.0834 16.3333 18.7476 16.3333 18.3334H14.8333ZM12.8333 16.3334H18.3333V14.8334H12.8333V16.3334ZM14.8333 12.8334V18.3334H16.3333V12.8334H14.8333Z" fill="#121926" fill-opacity="0.9"/>
+</svg>
